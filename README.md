@@ -1,4 +1,4 @@
-# Some-SQL-tasks-and-their-solutions
+# Some SQL tasks and their solutions
 
 You may add your SQL-tasks if you want me solve them.
 
